@@ -1,0 +1,16 @@
+customer_id,age,annual_income,credit_score,employment_status,job_title,years_employed,debt_to_income_ratio,savings_balance,checking_balance,home_ownership,marital_status,num_dependents,education_level,loan_purpose,requested_loan_amount,existing_loans,payment_history,loan_term,interest_rate,monthly_payment,approval_status
+1001,35,75000,720,Employed,Software Engineer,5,0.28,15000,3000,Rent,Single,0,Bachelor's,Home Improvement,25000,1,Excellent,36,8.5,789.58,Approved
+1002,42,95000,680,Employed,Marketing Manager,8,0.35,30000,5000,Own,Married,2,Master's,Debt Consolidation,50000,2,Good,60,10.2,1067.23,Approved
+1003,28,55000,650,Employed,Teacher,3,0.22,8000,2000,Rent,Single,0,Bachelor's,Car Purchase,20000,0,Good,48,9.8,507.25,Approved
+1004,55,120000,750,Employed,Senior Accountant,15,0.18,100000,10000,Own,Married,1,Master's,Business Expansion,100000,1,Excellent,84,7.5,1582.81,Approved
+1005,31,60000,630,Employed,Nurse,4,0.30,5000,1500,Rent,Single,1,Associate's,Education,30000,1,Fair,60,11.5,659.14,Pending
+1006,48,85000,700,Self-Employed,Small Business Owner,10,0.25,40000,7000,Own,Divorced,2,Bachelor's,Equipment Purchase,75000,1,Good,72,9.0,1207.88,Approved
+1007,39,70000,670,Employed,Sales Representative,6,0.32,12000,2500,Rent,Married,1,High School,Vacation,15000,2,Good,24,12.5,630.43,Pending
+1008,52,110000,780,Employed,Lawyer,20,0.20,200000,15000,Own,Married,3,Doctorate,Home Purchase,300000,0,Excellent,180,4.5,1897.95,Approved
+1009,26,45000,600,Employed,Customer Service Rep,2,0.40,3000,1000,Rent,Single,0,High School,Credit Card Refinance,10000,3,Fair,36,13.5,339.90,Rejected
+1010,61,130000,740,Employed,Executive,25,0.15,500000,25000,Own,Married,0,Master's,Investment,200000,1,Excellent,120,6.8,2309.64,Approved
+1011,33,65000,690,Employed,Project Manager,7,0.28,20000,4000,Rent,Single,0,Bachelor's,Wedding Expenses,35000,1,Good,48,10.5,893.61,Approved
+1012,45,80000,710,Employed,IT Specialist,12,0.22,50000,8000,Own,Married,2,Bachelor's,Home Renovation,60000,1,Excellent,60,8.8,1241.11,Approved
+1013,29,50000,620,Employed,Graphic Designer,3,0.35,6000,1500,Rent,Single,0,Associate's,Start-up Funding,40000,2,Fair,72,12.0,715.21,Pending
+1014,57,140000,760,Employed,Chief Financial Officer,18,0.17,300000,20000,Own,Married,1,Master's,Second Home Purchase,250000,0,Excellent,240,5.2,1508.71,Approved
+1015,37,72000,675,Employed,Human Resources Manager,9,0.30,25000,4500,Rent,Divorced,1,Bachelor's,Debt Consolidation,45000,2,Good,60,9.5,950.71,Approved
